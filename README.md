@@ -1,6 +1,6 @@
 # Despliegue de openCMS
 
-![Java](image/Java.jpg)
+![Java](image/Java.png)
 
  Vamos a desplegar un CMS llamado openCMS escrito en java.
  
